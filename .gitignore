@@ -93,3 +93,6 @@ target/
 
 # custom_pylint_plugins
 custom_pylint_plugins.py
+
+# assenty_notebook
+notebooks/Attenty - Seleção Bolsista Ciência dos dados.ipynb
