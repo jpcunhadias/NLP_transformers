@@ -1,7 +1,22 @@
-attenty
-==============================
+# Text Classification of Bank Call Transcripts
 
-Text Classifier using neural networks.
+This is a Python project that demonstrates how to use natural language processing (NLP) techniques for text classification of bank call transcripts. It uses primarily transformers models and NLP techniques to classify bank call transcripts into categories such as account inquiries, customer complaints, and new account requests.
+
+It uses a dataset of bank call transcripts, which includes various types of customer inquiries and requests.
+
+## Future updates
+
+- To apply other deep learning models in order to compare performances
+- To develop automated tests
+- [Build data preprocessing pipelines using Kedro](https://kedro.readthedocs.io/en/stable/index.html)
+
+## Referencies
+
+ - [Blueprints with text analytics using python](https://www.amazon.com.br/Blueprints-Text-Analysis-using-Python/dp/149207408X)
+ - [NLP with pytorch](https://www.amazon.com.br/Natural-Language-Processing-PyTorch-Applications-ebook/dp/B07N17TMFH)
+ - [Introduction to Transformers for NLP](https://www.amazon.com/Introduction-Transformers-NLP-Hugging-Problems/dp/1484288432)
+ - [NLP with transformers](https://www.amazon.com.br/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
+ - [Transformers for Natural Language Processing](https://www.amazon.com.br/Transformers-Natural-Language-Processing-architectures/dp/1803247339)
 
 Project Organization
 ------------
