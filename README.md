@@ -8,7 +8,7 @@ It uses a dataset of bank call transcripts, which includes various types of cust
 
 - To apply other deep learning models in order to compare performances
 - To develop automated tests
-- [Build data preprocessing pipelines using Kedro](https://kedro.readthedocs.io/en/stable/index.html)
+- [To build data preprocessing pipelines using Kedro](https://kedro.readthedocs.io/en/stable/index.html)
 
 ## Referencies
 
